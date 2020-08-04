@@ -1,3 +1,3 @@
 # All-Certificates
 
-Contains my certificates from PluralSight for verification.
+Contains my certificates from different courses for verification.
